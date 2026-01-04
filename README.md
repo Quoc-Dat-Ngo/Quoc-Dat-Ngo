@@ -3,7 +3,7 @@
 # 💫 About Me:
 
 I am a fourth-year computer science student at The University of New South Wales
-(UNSW) Sydney, passionate in exploring the worlds of coding, machine learning,
+(UNSW) Sydney, passionate in exploring the worlds of coding,
 and building robust, pragmatic applications.
 
 ## 🚀 What I'm Up To
@@ -11,7 +11,6 @@ and building robust, pragmatic applications.
 - 💻 Building Spring Boot applications with PostgreSQL and React JS
 - ⌨️ Building Node JS applications with MongoDB and Next JS
 - 🦀 Building Rust microservices with Kafka/RabbitMQ
-- 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
 - ☁️ Enthusiastic in cloud development AWS
 
 ## 🌐 Connect with me:
@@ -29,7 +28,6 @@ Languages:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
 Developer Tools:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -47,7 +45,6 @@ Libraries/Frameworks:
 ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 <!--
 **Quoc-Dat-Ngo/Quoc-Dat-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
