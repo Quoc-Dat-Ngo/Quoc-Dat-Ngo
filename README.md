@@ -9,7 +9,7 @@ and building robust, pragmatic applications.
 ## 🚀 What I'm Up To
 
 - 💻 Building Spring Boot applications with PostgreSQL and React JS
-- ⌨️ Building Node JS applications with MongoDB and Next JS
+- ⌨️ Building Node JS applications with PostgreSQL and React JS (PERN Stack)
 - 🦀 Building Rust microservices with Kafka/RabbitMQ
 - ☁️ Enthusiastic in cloud development AWS
 
