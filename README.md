@@ -3,14 +3,14 @@
 # 💫 About Me:
 
 I am a fourth-year computer science student at The University of New South Wales
-(UNSW) Sydney, passionate in exploring the worlds of coding,
-and building robust, pragmatic applications.
+(UNSW) Sydney, passionate in exploring the worlds of computing/coding, especially the backend development
+and building robust, pragmatic, production-style applications.
 
 ## 🚀 What I'm Up To
 
+- ⌨️ Building Node JS applications with PostgreSQL to practice core backend concepts
 - 💻 Building Spring Boot applications with PostgreSQL and React JS
-- ⌨️ Building Node JS applications with PostgreSQL and React JS (PERN Stack)
-- 🦀 Building Rust microservices with Kafka/RabbitMQ
+- 🦀 Building Actix Web (Rust) applications with relational database (PostgreSQL)
 - ☁️ Enthusiastic in cloud development AWS
 
 ## 🌐 Connect with me:
@@ -34,17 +34,18 @@ Developer Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 Libraries/Frameworks:
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![Tokio](https://img.shields.io/badge/tokio-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Actix Web](https://img.shields.io/badge/actix--web-000000?style=for-the-badge&logo=rust&logoColor=white)
+![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<!--
+![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Kafka](https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+-->
 
 <!--
 **Quoc-Dat-Ngo/Quoc-Dat-Ngo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
