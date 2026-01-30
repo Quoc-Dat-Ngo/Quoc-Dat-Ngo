@@ -15,7 +15,7 @@ and building robust, pragmatic, production-style applications.
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quoc-dat-ngo-a162a5277/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quoc-dat-ngo/)
 
 # 💻 Tech Stack:
 
