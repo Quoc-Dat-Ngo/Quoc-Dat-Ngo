@@ -2,16 +2,15 @@
 
 # 💫 About Me:
 
-I am a fourth-year computer science student at The University of New South Wales
-(UNSW) Sydney, passionate in exploring the worlds of computing/coding, especially the backend development
+I am a finaly Computer Science undergraduate here at The University of New South Wales
+(UNSW) Sydney, passionate in exploring the worlds of computing, especially the backend-focused development
 and building robust, pragmatic, production-style applications.
 
 ## 🚀 What I'm Up To
 
-- ⌨️ Building Node JS applications with PostgreSQL to practice core backend concepts
-- 💻 Building Spring Boot applications with PostgreSQL and React JS
-- 🦀 Building Actix Web (Rust) applications with relational database (PostgreSQL)
-- ☁️ Enthusiastic in cloud development AWS
+- ⌨️ Building Node JS + Express applications with PostgreSQL
+- 💻 Utilising Spring Boot Ecosystem to build applications with PostgreSQL and React JS
+- ☁️ Enthusiastic in Rust (Programming Language) and cloud development AWS
 
 ## 🌐 Connect with me:
 
@@ -23,7 +22,6 @@ Languages:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,8 +35,6 @@ Libraries/Frameworks:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Actix Web](https://img.shields.io/badge/actix--web-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Diesel ORM](https://img.shields.io/badge/Diesel_ORM-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![ReactJS](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <!--
